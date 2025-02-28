@@ -1,1 +1,1 @@
-Notebook = 3
+NB = 3
